@@ -1,0 +1,6 @@
+## Ignoring files
+*.log
+
+## And emacs files too
+*~
+\#*\#

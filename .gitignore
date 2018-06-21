@@ -1,5 +1,7 @@
 ## Ignoring files
 *.log
+*.orig
+.DS_Store
 
 ## And emacs files too
 *~
